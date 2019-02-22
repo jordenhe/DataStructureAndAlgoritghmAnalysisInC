@@ -1,0 +1,2 @@
+# DataStructureAndAlgoritghmAnalysisInC
+C script
